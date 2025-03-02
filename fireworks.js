@@ -1,11 +1,18 @@
 const colors = [
-	"#ff6f91",
-	"#ff9671",
-	"#ffc75f",
-	"#f9f871",
-	"#ff4c4c",
-	"#ffcc00"
+	"#ff6f91", // Pink
+	"#ff9671", // Peach
+	"#ffc75f", // Orange
+	"#f9f871", // Yellow
+	"#ff4c4c", // Red
+	"#ffcc00", // Gold
+	"#6a5acd", // Slate Blue
+	"#00c9a7", // Turquoise
+	"#ff1493", // Deep Pink
+	"#1e90ff", // Dodger Blue
+	"#32cd32", // Lime Green
+	"#8a2be2"  // Blue Violet
 ];
+
 const letters = "I LOVE YOU";
 let letterIndex = 0;
 
